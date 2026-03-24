@@ -13,7 +13,7 @@ const projects = [
   {
     title: "Loopup",
     category: "Collaborative Workspace for Developers",
-    tools: "Next.js, Typesript,Firebase",
+    tools: "Next.js, Typesript, Firebase",
     image: "/images/Solidx.png",
   }
 ];
